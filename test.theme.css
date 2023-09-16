@@ -19,7 +19,7 @@
   --success-color: #009688;
   --danger-color: #9C27B0;
   --url-color: var(--main-color);
-  --background-image: url('https://i.imgur.com/GEhzE9V.jpg');
+  --background-image: url('https://twitter.com/ggdgggdggggd/status/1548228167336624128/photo/1');
   --background-shading: 0%;
   --background-position: center;
   --background-size: cover;
@@ -32,7 +32,7 @@
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://i.imgur.com/TskLffO.jpg');
+  --user-popout-image: url('https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fuk1lhw8jhiob1.jpg');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
@@ -43,7 +43,7 @@
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
   --user-popout-blur: 0px;
-  --user-modal-image: url('https://i.imgur.com/7ARkjEg.jpg');
+  --user-modal-image: url('https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fuk1lhw8jhiob1.jpg');
   --user-modal-position: center;
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
@@ -54,7 +54,7 @@
   --user-modal-grayscale: 0%;
   --user-modal-invert: 0%;
   --user-modal-blur: 0px;
-  --home-icon: url('https://i.imgur.com/Tf0aj4y.jpg');
+  --home-icon: url('https://grayravens.com/wiki/Bianca:_Stigmata#/media/File:Dialogue-Stigmata-Chibi-Icon.png');
   --home-position: center;
   --home-size: 80px;
   --channel-unread: var(--main-color);
